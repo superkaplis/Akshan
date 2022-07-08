@@ -1,3 +1,3 @@
 # Akshan
 Akshan guide
-### builds, runes, summs, abilities
+### builds, runes, summoners
